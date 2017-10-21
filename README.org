@@ -1,0 +1,2 @@
+# ConfMan
+## A solution for dotfile syncing across computers
